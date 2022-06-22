@@ -17,7 +17,7 @@ class _NavigationBarPageState extends State<NavigationBarPage> {
     HomePage(),
     MyAddPage(),
     const AddPage(),
-    const ChatPage(),
+     ChatPage(),
     const AccountPage()
   ];
   int _currentIndex = 0;
